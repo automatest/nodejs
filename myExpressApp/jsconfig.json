@@ -1,0 +1,6 @@
+{
+	"compileOptions": {
+		"target": "ES5",
+		"module": "commonjs"
+	}
+}
